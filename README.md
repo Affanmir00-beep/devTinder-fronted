@@ -20,3 +20,4 @@ If you are developing a production application, we recommend using TypeScript wi
 // remove unnecessary code 
 // installed tailwind
 // we are using a library daisy ui
+// changed whole theme  with daisy ui library
