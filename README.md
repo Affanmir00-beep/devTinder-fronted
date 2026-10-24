@@ -21,3 +21,4 @@ If you are developing a production application, we recommend using TypeScript wi
 // installed tailwind
 // we are using a library daisy ui
 // changed whole theme  with daisy ui library
+// added a navbar  in app.jsx with daisy ui change it s margin give space from right 
