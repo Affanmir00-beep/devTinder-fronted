@@ -45,3 +45,9 @@ BODY
   {/* // this element will decide waht will render in this path */}
 </Routes> -->
 and for usig more data like for  login and profile where navbar alos appear we use outlet in body
+created footer
+creating login
+install axios 
+install axios in backend => add middleware in configuration :configuration  credentials:true
+in our frontend we must have to pass winthcredentials to get cookies
+whenever we are making an api call in axios we must have to pass{withcredentials: true}
