@@ -51,3 +51,14 @@ install axios
 install axios in backend => add middleware in configuration :configuration  credentials:true
 in our frontend we must have to pass winthcredentials to get cookies
 whenever we are making an api call in axios we must have to pass{withcredentials: true}
+// next we are going to redirect user to dashboard after user gets login 
+// and we aslo gonna cofngifure how we save data to redux store
+// installed redux toolkit
+installed reacr redux+toolkit
+configure store => PROVIDER => CREATE SLICEC => ADD REDUCER TO STORE
+
+WE DISPATCH AN ACTION TO ADD DATA TO OUR REDUX STORE  USEDISPATCH IS A HOOK
+// add redux dev tools in chrome
+//login and see if our data is coming poroperly in store
+// navbar should update as soon as user loged in
+// refactor our code ot ocnstants.js in utils and make compoennets folder and moved all componenes in it
